@@ -6,3 +6,5 @@
  Github: https://github.com/ultralytics/yolov5
  
  DataSet: https://www.kaggle.com/valentynsichkar/traffic-signs-dataset-in-yolo-format
+ 
+ HOW TO: Install PyTorch (with GPU) in Windows 10 : https://www.youtube.com/watch?v=eodnCUzSeTk
